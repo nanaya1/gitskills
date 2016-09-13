@@ -1,1 +1,1 @@
-Creating a new branch is quick and simple.
+witched to a new branch 'dev'
